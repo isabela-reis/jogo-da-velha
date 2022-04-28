@@ -6,5 +6,5 @@ Projeto produzido para o bootcamp Órbi Web Games Developer da Digital Innovatio
 
 <h3>Descrição do projeto:</h3>
 
-Neste desafio de projeto, desenvolvi um jogo da velha utilizando Javascript. HTML e CSS.
+Nesse projeto foi desenvolvido um jogo da velha utilizando Javascript. HTML e CSS.
 
